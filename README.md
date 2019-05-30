@@ -1,4 +1,4 @@
-# java-beginner-exercises
+# Java Beginner Exercises
 
 Apenas a classe ***Exercicios.java*** deve ser editada. Ela se encontra dentro do pacote ***exc***. Para verificar se sua implementação passou nos testes, basta rodar (**ctrl + f11**) a função ***main*** presente na classe (***Exercicios.java***).
 
